@@ -1,0 +1,5 @@
+y = 4
+x = y + 10
+
+print(x)
+print("hello" * 3)
