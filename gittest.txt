@@ -1,5 +1,1 @@
-y = 4
-x = y + 10
-
-print(x)
-print("hello" * 3)
+Hello, I am trying to update the file to Github.　Some parts are updated already.
